@@ -1,5 +1,5 @@
 
-  .uljzv {
+  .yeps4 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .uljzvtitle {
+  .yeps4title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .uljzvtitlebody {
+  .yeps4titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .uljzvtitlebodytitle {
+  .yeps4titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .uljzvtitlebodylang {
+  .yeps4titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .uljzvtitlebodylang ul {
+  .yeps4titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .uljzvbody {
+  .yeps4body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .uljzvmenu {
+  .yeps4menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .uljzvmenulist {
+  .yeps4menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .uljzvmenubody {
+  .yeps4menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .uljzvmenulist ul {
+  .yeps4menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .uljzvmenulist ul a {
+  .yeps4menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .uljzvmenulist ul a:hover {
+  .yeps4menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .uljzvmenulistactive {
+  .yeps4menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .uljzvmenulistbody {
+  .yeps4menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .uljzvbodylogo {
+    .yeps4bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .uljzvmenu {
+    .yeps4menu {
       overflow-x: auto;
     }
 
-    .uljzvmenulist ul {
+    .yeps4menulist ul {
       flex-direction: row;
     }
 
-    .uljzvbodylogo {
+    .yeps4bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,19 +137,19 @@
   }
 
   @media screen and (max-width: 768px) {
-    .uljzvmenulist ul a {
+    .yeps4menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .vrhha {
+  .c54dg {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vrhhabody {
+  .c54dgbody {
     width: var(--max);
     display: grid;
     gap: 20px;
@@ -158,7 +158,7 @@
     justify-content: center;
     /* Center all grid items */
   }
-  .vrhhabodyitem {
+  .c54dgbodyitem {
     position: relative;
     aspect-ratio: 7 / 4;
     background-color: #ffffff;
@@ -173,12 +173,12 @@
     /* Add ease for smoother transitions */
     justify-content: center;
   }
-  .vrhhabodyitem:hover {
+  .c54dgbodyitem:hover {
     transform: scale(1.05);
     /* Zoom effect */
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
   }
-  .vrhhabodyitemimg {
+  .c54dgbodyitemimg {
     aspect-ratio: 1 / 1;
     display: flex;
     justify-content: center;
@@ -187,13 +187,13 @@
     overflow: hidden;
     margin-bottom: 10px;
   }
-  .vrhhabodyitemimg img {
+  .c54dgbodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     /* Cover the entire area */
   }
-  .vrhhabodyitemtitle {
+  .c54dgbodyitemtitle {
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -202,12 +202,12 @@
     font-size: 1.1em;
   }
   @media screen and (max-width: 1024px) {
-    .vrhhabody {
+    .c54dgbody {
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .vrhhabody {
+    .c54dgbody {
       grid-template-columns: repeat(2, 1fr);
     }
   }

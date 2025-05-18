@@ -1,5 +1,5 @@
 
-  .fz9wl {
+  .csaoa {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .fz9wltitle {
+  .csaoatitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .fz9wltitlebody {
+  .csaoatitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .fz9wltitlebodytitle {
+  .csaoatitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .fz9wltitlebodylang {
+  .csaoatitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .fz9wltitlebodylang ul {
+  .csaoatitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .fz9wlbody {
+  .csaoabody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .fz9wlmenu {
+  .csaoamenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .fz9wlmenulist {
+  .csaoamenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .fz9wlmenubody {
+  .csaoamenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .fz9wlmenulist ul {
+  .csaoamenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .fz9wlmenulist ul a {
+  .csaoamenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .fz9wlmenulist ul a:hover {
+  .csaoamenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .fz9wlmenulistactive {
+  .csaoamenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .fz9wlmenulistbody {
+  .csaoamenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .fz9wlbodylogo {
+    .csaoabodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .fz9wlmenu {
+    .csaoamenu {
       overflow-x: auto;
     }
 
-    .fz9wlmenulist ul {
+    .csaoamenulist ul {
       flex-direction: row;
     }
 
-    .fz9wlbodylogo {
+    .csaoabodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,19 +137,19 @@
   }
 
   @media screen and (max-width: 768px) {
-    .fz9wlmenulist ul a {
+    .csaoamenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .gbcgl {
+  .gma06 {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .gbcglbody {
+  .gma06body {
     width: var(--max);
     display: grid;
     gap: 20px;
@@ -158,7 +158,7 @@
     justify-content: center;
     /* Center all grid items */
   }
-  .gbcglbodyitem {
+  .gma06bodyitem {
     position: relative;
     aspect-ratio: 7 / 4;
     background-color: #ffffff;
@@ -173,12 +173,12 @@
     /* Add ease for smoother transitions */
     justify-content: center;
   }
-  .gbcglbodyitem:hover {
+  .gma06bodyitem:hover {
     transform: scale(1.05);
     /* Zoom effect */
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
   }
-  .gbcglbodyitemimg {
+  .gma06bodyitemimg {
     aspect-ratio: 1 / 1;
     display: flex;
     justify-content: center;
@@ -187,13 +187,13 @@
     overflow: hidden;
     margin-bottom: 10px;
   }
-  .gbcglbodyitemimg img {
+  .gma06bodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     /* Cover the entire area */
   }
-  .gbcglbodyitemtitle {
+  .gma06bodyitemtitle {
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -202,12 +202,12 @@
     font-size: 1.1em;
   }
   @media screen and (max-width: 1024px) {
-    .gbcglbody {
+    .gma06body {
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .gbcglbody {
+    .gma06body {
       grid-template-columns: repeat(2, 1fr);
     }
   }

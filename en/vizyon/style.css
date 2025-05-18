@@ -1,5 +1,5 @@
 
-  .c1qju {
+  .fjvo5 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .c1qjutitle {
+  .fjvo5title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .c1qjutitlebody {
+  .fjvo5titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .c1qjutitlebodytitle {
+  .fjvo5titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .c1qjutitlebodylang {
+  .fjvo5titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .c1qjutitlebodylang ul {
+  .fjvo5titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .c1qjubody {
+  .fjvo5body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .c1qjumenu {
+  .fjvo5menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .c1qjumenulist {
+  .fjvo5menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .c1qjumenubody {
+  .fjvo5menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .c1qjumenulist ul {
+  .fjvo5menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .c1qjumenulist ul a {
+  .fjvo5menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .c1qjumenulist ul a:hover {
+  .fjvo5menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .c1qjumenulistactive {
+  .fjvo5menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .c1qjumenulistbody {
+  .fjvo5menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .c1qjubodylogo {
+    .fjvo5bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .c1qjumenu {
+    .fjvo5menu {
       overflow-x: auto;
     }
 
-    .c1qjumenulist ul {
+    .fjvo5menulist ul {
       flex-direction: row;
     }
 
-    .c1qjubodylogo {
+    .fjvo5bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .c1qjumenulist ul a {
+    .fjvo5menulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .mr0um {
+  .vxdai {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .mr0um-menu {
+  .vxdai-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .mr0um-menu > a {
+  .vxdai-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .mr0um-menu > a:hover,
-  .mr0um-menu > .active {
+  .vxdai-menu > a:hover,
+  .vxdai-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .mr0um-body {
+  .vxdai-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .mr0um-title {
+  .vxdai-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .mr0um-title::before {
+  .vxdai-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .mr0um-title span {
+  .vxdai-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .mr0um {
+    .vxdai {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .mr0um-menu {
+    .vxdai-menu {
       display: none;
     }
-    .mr0um-body {
+    .vxdai-body {
       width: 100%;
     }
   }
