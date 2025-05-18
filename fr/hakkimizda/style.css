@@ -1,5 +1,5 @@
 
-  .aav74 {
+  .tfuur {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .aav74title {
+  .tfuurtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .aav74titlebody {
+  .tfuurtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .aav74titlebodytitle {
+  .tfuurtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .aav74titlebodylang {
+  .tfuurtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .aav74titlebodylang ul {
+  .tfuurtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .aav74body {
+  .tfuurbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .aav74menu {
+  .tfuurmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .aav74menulist {
+  .tfuurmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .aav74menubody {
+  .tfuurmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .aav74menulist ul {
+  .tfuurmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .aav74menulist ul a {
+  .tfuurmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .aav74menulist ul a:hover {
+  .tfuurmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .aav74menulistactive {
+  .tfuurmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .aav74menulistbody {
+  .tfuurmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .aav74bodylogo {
+    .tfuurbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .aav74menu {
+    .tfuurmenu {
       overflow-x: auto;
     }
 
-    .aav74menulist ul {
+    .tfuurmenulist ul {
       flex-direction: row;
     }
 
-    .aav74bodylogo {
+    .tfuurbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .aav74menulist ul a {
+    .tfuurmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .ibuug {
+  .of79u {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .ibuug-menu {
+  .of79u-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .ibuug-menu > a {
+  .of79u-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .ibuug-menu > a:hover,
-  .ibuug-menu > .active {
+  .of79u-menu > a:hover,
+  .of79u-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .ibuug-body {
+  .of79u-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .ibuug-title {
+  .of79u-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .ibuug-title::before {
+  .of79u-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .ibuug-title span {
+  .of79u-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .ibuug {
+    .of79u {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .ibuug-menu {
+    .of79u-menu {
       display: none;
     }
-    .ibuug-body {
+    .of79u-body {
       width: 100%;
     }
   }

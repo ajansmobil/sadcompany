@@ -1,5 +1,5 @@
 
-  .qeqaz {
+  .p1qyp {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .qeqaztitle {
+  .p1qyptitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .qeqaztitlebody {
+  .p1qyptitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .qeqaztitlebodytitle {
+  .p1qyptitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .qeqaztitlebodylang {
+  .p1qyptitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .qeqaztitlebodylang ul {
+  .p1qyptitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .qeqazbody {
+  .p1qypbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .qeqazmenu {
+  .p1qypmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .qeqazmenulist {
+  .p1qypmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .qeqazmenubody {
+  .p1qypmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .qeqazmenulist ul {
+  .p1qypmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .qeqazmenulist ul a {
+  .p1qypmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .qeqazmenulist ul a:hover {
+  .p1qypmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .qeqazmenulistactive {
+  .p1qypmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .qeqazmenulistbody {
+  .p1qypmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .qeqazbodylogo {
+    .p1qypbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .qeqazmenu {
+    .p1qypmenu {
       overflow-x: auto;
     }
 
-    .qeqazmenulist ul {
+    .p1qypmenulist ul {
       flex-direction: row;
     }
 
-    .qeqazbodylogo {
+    .p1qypbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .qeqazmenulist ul a {
+    .p1qypmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .boxs4 {
+  .sreq7 {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .boxs4-menu {
+  .sreq7-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .boxs4-menu > a {
+  .sreq7-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .boxs4-menu > a:hover,
-  .boxs4-menu > .active {
+  .sreq7-menu > a:hover,
+  .sreq7-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .boxs4-body {
+  .sreq7-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .boxs4-title {
+  .sreq7-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .boxs4-title::before {
+  .sreq7-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .boxs4-title span {
+  .sreq7-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .boxs4 {
+    .sreq7 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .boxs4-menu {
+    .sreq7-menu {
       display: none;
     }
-    .boxs4-body {
+    .sreq7-body {
       width: 100%;
     }
   }

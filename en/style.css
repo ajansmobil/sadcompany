@@ -1,5 +1,5 @@
 
-  .l29of {
+  .vek0e {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .l29oftitle {
+  .vek0etitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .l29oftitlebody {
+  .vek0etitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .l29oftitlebodytitle {
+  .vek0etitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .l29oftitlebodylang {
+  .vek0etitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .l29oftitlebodylang ul {
+  .vek0etitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .l29ofbody {
+  .vek0ebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .l29ofmenu {
+  .vek0emenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .l29ofmenulist {
+  .vek0emenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .l29ofmenubody {
+  .vek0emenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .l29ofmenulist ul {
+  .vek0emenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .l29ofmenulist ul a {
+  .vek0emenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .l29ofmenulist ul a:hover {
+  .vek0emenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .l29ofmenulistactive {
+  .vek0emenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .l29ofmenulistbody {
+  .vek0emenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .l29ofbodylogo {
+    .vek0ebodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .l29ofmenu {
+    .vek0emenu {
       overflow-x: auto;
     }
 
-    .l29ofmenulist ul {
+    .vek0emenulist ul {
       flex-direction: row;
     }
 
-    .l29ofbodylogo {
+    .vek0ebodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .l29ofmenulist ul a {
+    .vek0emenulist ul a {
       font-size: 14px;
     }
   }
@@ -173,10 +173,10 @@
   }
 
 
-  .title-sl9t8 {
+  .title-dfmme {
     font-size: 18px;
   }
-  .sl9t8body {
+  .dfmmebody {
     display: flex;
     align-items: stretch;
     padding: 15px 0px 15px 0px;
@@ -187,20 +187,20 @@
     align-items: center;
     justify-content: center;
   }
-  .swiper-pagination-sl9t8 {
+  .swiper-pagination-dfmme {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 5px !important;
   }
-  .sliderxsl9t8 {
+  .sliderxdfmme {
     position: relative;
     width: 100%;
     max-width: var(--max);
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .slider-sl9t8t-itle {
+  .slider-dfmmet-itle {
     width: 100%;
     font-size: 28px;
     font-weight: 500;
@@ -209,8 +209,8 @@
     justify-content: left;
     margin-bottom: 10px;
   }
-  .swiper-button-prev-sl9t8,
-  .swiper-button-next-sl9t8 {
+  .swiper-button-prev-dfmme,
+  .swiper-button-next-dfmme {
     color: #000 !important;
     font-size: 28px;
     font-weight: bold;
@@ -222,18 +222,18 @@
     transform: translateY(-50%);
     /* Center it vertically */
   }
-  .swiper-button-prev-sl9t8 {
+  .swiper-button-prev-dfmme {
     left: -30px !important;
   }
-  .swiper-button-next-sl9t8 {
+  .swiper-button-next-dfmme {
     right: -30px !important;
   }
   @media screen and (max-width: 1024px) {
-    .sliderxsl9t8 {
+    .sliderxdfmme {
       width: 100%;
     }
   }
-  .img-sl9t8 {
+  .img-dfmme {
     aspect-ratio: 1/1;
     display: flex;
     align-items: center;
@@ -246,7 +246,7 @@
     position: relative;
     overflow: hidden;
   }
-  .img-sl9t8 > img {
+  .img-dfmme > img {
     max-height: 100%;
     max-width: 100%;
     object-fit: contain;
@@ -257,7 +257,7 @@
     top: 0;
     left: 0;
   }
-  .spot-sl9t8 {
+  .spot-dfmme {
     flex: 1;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -266,33 +266,33 @@
     text-overflow: ellipsis;
     white-space: normal;
   }
-  .button-sl9t8 {
+  .button-dfmme {
     background-color: #1e3046;
     padding: 8px;
     border-radius: 5px;
     color: #fff;
     display: flex;
   }
-  .button-sl9t8 > * {
+  .button-dfmme > * {
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .button-sl9t8:hover {
+  .button-dfmme:hover {
     filter: brightness(0.9);
     transition: filter 0.3s;
   }
-  .button-sl9t8:hover span {
+  .button-dfmme:hover span {
     transform: translateX(8px) scale(1.2);
     /* Move and scale the icon */
     transition:
       transform 0.4s ease,
       color 0.4s ease;
   }
-  .button-sl9t8:hover .w100 {
+  .button-dfmme:hover .w100 {
     transition: color 0.4s ease;
   }
-  .swiper-sl9t8 {
+  .swiper-dfmme {
     background-color: #fff;
     aspect-ratio: 3/4;
     width: 100%;
@@ -307,15 +307,15 @@
     transition: filter 0.3s;
     cursor: pointer;
   }
-  .sl9t8 {
+  .dfmme {
     overflow-x: auto;
   }
-  .sl9t8::-webkit-scrollbar {
+  .dfmme::-webkit-scrollbar {
     display: none;
   }
 
 
-  .n0n87 {
+  .xcfkj {
     width: 100%;
     padding: 60px 20px;
     display: flex;
@@ -323,13 +323,13 @@
     justify-content: center;
     position: relative;
   }
-  .n0n87containertitle {
+  .xcfkjcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
-  .n0n87containerlist {
+  .xcfkjcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -337,23 +337,23 @@
     gap: 20px;
     transition: background-color 0.3s ease;
   }
-  .n0n87containerlist > div {
+  .xcfkjcontainerlist > div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
-  .n0n87containerlist:hover {
+  .xcfkjcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
-  .n0n87container {
+  .xcfkjcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
-  .n0n87containerbody {
+  .xcfkjcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -362,24 +362,24 @@
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
-  .n0n87body {
+  .xcfkjbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
     border-radius: 10px;
     padding: 20px;
   }
-  .n0n87containerlist > span {
+  .xcfkjcontainerlist > span {
     font-size: 24px;
     color: #1e3046;
   }
   @media screen and (max-width: 1024px) {
-    .n0n87body {
+    .xcfkjbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
-    .n0n87containerbody {
+    .xcfkjcontainerbody {
       padding: 15px;
     }
   }
@@ -409,13 +409,13 @@
       transform: scale(1);
     }
   }
-  .bdkfq-body {
+  .q45ji-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .bdkfq-body-chile {
+  .q45ji-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -423,10 +423,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .bdkfq-body-chile > div {
+  .q45ji-body-chile > div {
     width: 100% !important;
   }
-  .bdkfq2 {
+  .q45ji2 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -437,21 +437,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .bdkfq {
+  .q45ji {
     display: flex;
     flex-direction: column;
   }
-  .bdkfq > svg {
+  .q45ji > svg {
     width: 100vw;
   }
-  .bdkfqbotton {
+  .q45jibotton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .bdkfq-svg {
+  .q45ji-svg {
     fill: #fff;
   }
-  .bdkfq-bg {
+  .q45ji-bg {
     background-image: url("/img/n0fc7s/map.png?v={{random}}") !important;
     background-size: cover;
     background-position: center center;
