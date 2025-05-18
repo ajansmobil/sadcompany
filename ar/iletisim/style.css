@@ -1,5 +1,5 @@
 
-  .jcdiv {
+  .qsika {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .jcdivtitle {
+  .qsikatitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .jcdivtitlebody {
+  .qsikatitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .jcdivtitlebodytitle {
+  .qsikatitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .jcdivtitlebodylang {
+  .qsikatitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .jcdivtitlebodylang ul {
+  .qsikatitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .jcdivbody {
+  .qsikabody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .jcdivmenu {
+  .qsikamenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .jcdivmenulist {
+  .qsikamenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .jcdivmenubody {
+  .qsikamenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .jcdivmenulist ul {
+  .qsikamenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .jcdivmenulist ul a {
+  .qsikamenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .jcdivmenulist ul a:hover {
+  .qsikamenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .jcdivmenulistactive {
+  .qsikamenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .jcdivmenulistbody {
+  .qsikamenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .jcdivbodylogo {
+    .qsikabodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .jcdivmenu {
+    .qsikamenu {
       overflow-x: auto;
     }
 
-    .jcdivmenulist ul {
+    .qsikamenulist ul {
       flex-direction: row;
     }
 
-    .jcdivbodylogo {
+    .qsikabodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,13 +137,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .jcdivmenulist ul a {
+    .qsikamenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .qicx4 {
+  .m0cj7 {
     width: 100%;
     padding: 60px 20px;
     display: flex;
@@ -151,13 +151,13 @@
     justify-content: center;
     position: relative;
   }
-  .qicx4containertitle {
+  .m0cj7containertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
-  .qicx4containerlist {
+  .m0cj7containerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -165,23 +165,23 @@
     gap: 20px;
     transition: background-color 0.3s ease;
   }
-  .qicx4containerlist > div {
+  .m0cj7containerlist > div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
-  .qicx4containerlist:hover {
+  .m0cj7containerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
-  .qicx4container {
+  .m0cj7container {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
-  .qicx4containerbody {
+  .m0cj7containerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -190,24 +190,24 @@
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
-  .qicx4body {
+  .m0cj7body {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
     border-radius: 10px;
     padding: 20px;
   }
-  .qicx4containerlist > span {
+  .m0cj7containerlist > span {
     font-size: 24px;
     color: #1e3046;
   }
   @media screen and (max-width: 1024px) {
-    .qicx4body {
+    .m0cj7body {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
-    .qicx4containerbody {
+    .m0cj7containerbody {
       padding: 15px;
     }
   }
@@ -237,13 +237,13 @@
       transform: scale(1);
     }
   }
-  .fve7o-body {
+  .r7ve2-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .fve7o-body-chile {
+  .r7ve2-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -251,10 +251,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .fve7o-body-chile > div {
+  .r7ve2-body-chile > div {
     width: 100% !important;
   }
-  .fve7o2 {
+  .r7ve22 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -265,21 +265,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .fve7o {
+  .r7ve2 {
     display: flex;
     flex-direction: column;
   }
-  .fve7o > svg {
+  .r7ve2 > svg {
     width: 100vw;
   }
-  .fve7obotton {
+  .r7ve2botton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .fve7o-svg {
+  .r7ve2-svg {
     fill: #fff;
   }
-  .fve7o-bg {
+  .r7ve2-bg {
     background-image: url("/img/n0fc7s/map.png?v={{random}}") !important;
     background-size: cover;
     background-position: center center;

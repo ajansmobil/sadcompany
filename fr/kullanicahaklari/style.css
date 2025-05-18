@@ -1,5 +1,5 @@
 
-  .pie5m {
+  .a90ne {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pie5mtitle {
+  .a90netitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pie5mtitlebody {
+  .a90netitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pie5mtitlebodytitle {
+  .a90netitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pie5mtitlebodylang {
+  .a90netitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pie5mtitlebodylang ul {
+  .a90netitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pie5mbody {
+  .a90nebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pie5mmenu {
+  .a90nemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pie5mmenulist {
+  .a90nemenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pie5mmenubody {
+  .a90nemenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pie5mmenulist ul {
+  .a90nemenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pie5mmenulist ul a {
+  .a90nemenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .pie5mmenulist ul a:hover {
+  .a90nemenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pie5mmenulistactive {
+  .a90nemenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .pie5mmenulistbody {
+  .a90nemenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .pie5mbodylogo {
+    .a90nebodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .pie5mmenu {
+    .a90nemenu {
       overflow-x: auto;
     }
 
-    .pie5mmenulist ul {
+    .a90nemenulist ul {
       flex-direction: row;
     }
 
-    .pie5mbodylogo {
+    .a90nebodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .pie5mmenulist ul a {
+    .a90nemenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .th2ws {
+  .fjv2n {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .th2ws-menu {
+  .fjv2n-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .th2ws-menu > a {
+  .fjv2n-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .th2ws-menu > a:hover,
-  .th2ws-menu > .active {
+  .fjv2n-menu > a:hover,
+  .fjv2n-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .th2ws-body {
+  .fjv2n-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .th2ws-title {
+  .fjv2n-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .th2ws-title::before {
+  .fjv2n-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .th2ws-title span {
+  .fjv2n-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .th2ws {
+    .fjv2n {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .th2ws-menu {
+    .fjv2n-menu {
       display: none;
     }
-    .th2ws-body {
+    .fjv2n-body {
       width: 100%;
     }
   }
