@@ -1,5 +1,5 @@
 
-  .bgabx {
+  .fs3pe {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .bgabxtitle {
+  .fs3petitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .bgabxtitlebody {
+  .fs3petitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .bgabxtitlebodytitle {
+  .fs3petitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .bgabxtitlebodylang {
+  .fs3petitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .bgabxtitlebodylang ul {
+  .fs3petitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .bgabxbody {
+  .fs3pebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .bgabxmenu {
+  .fs3pemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .bgabxmenulist {
+  .fs3pemenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .bgabxmenubody {
+  .fs3pemenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .bgabxmenulist ul {
+  .fs3pemenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .bgabxmenulist ul a {
+  .fs3pemenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .bgabxmenulist ul a:hover {
+  .fs3pemenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .bgabxmenulistactive {
+  .fs3pemenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .bgabxmenulistbody {
+  .fs3pemenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .bgabxbodylogo {
+    .fs3pebodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .bgabxmenu {
+    .fs3pemenu {
       overflow-x: auto;
     }
 
-    .bgabxmenulist ul {
+    .fs3pemenulist ul {
       flex-direction: row;
     }
 
-    .bgabxbodylogo {
+    .fs3pebodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .bgabxmenulist ul a {
+    .fs3pemenulist ul a {
       font-size: 14px;
     }
   }
@@ -147,14 +147,14 @@
     justify-content: start;
   }
 
-  .jowce {
+  .xvo8p {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .jowce-menu {
+  .xvo8p-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -165,28 +165,28 @@
     float: left;
   }
 
-  .jowce-desc {
+  .xvo8p-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .jowce-menu>a {
+  .xvo8p-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .jowce-menu>.active,
-  .jowce-menu>a:hover {
+  .xvo8p-menu>.active,
+  .xvo8p-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .jowce-desc-menu {
+  .xvo8p-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -194,19 +194,19 @@
     border-radius: 5px;
   }
 
-  .jowce-desc-menu>div {
+  .xvo8p-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .jowce-desc-body {
+  .xvo8p-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .jowce-title {
+  .xvo8p-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -219,7 +219,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .jowce-title::before {
+  .xvo8p-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -234,57 +234,57 @@
     z-index: 1;
   }
 
-  .jowce-title span {
+  .xvo8p-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .jowce-body {
+  .xvo8p-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .jowce-img {
+  .xvo8p-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .jowce-img img {
+  .xvo8p-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .jowce-desc {
+    .xvo8p-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .jowce {
+    .xvo8p {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .jowce-img {
+    .xvo8p-img {
       width: 100%;
     }
 
-    .jowce-body {
+    .xvo8p-body {
       width: 100%;
     }
 
-    .jowce-menu {
+    .xvo8p-menu {
       display: none;
     }
 
-    .jowce-desc {
+    .xvo8p-desc {
       width: 100% !important;
     }
   }

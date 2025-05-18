@@ -1,5 +1,5 @@
 
-  .ouqy0 {
+  .qk4qk {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ouqy0title {
+  .qk4qktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ouqy0titlebody {
+  .qk4qktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ouqy0titlebodytitle {
+  .qk4qktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ouqy0titlebodylang {
+  .qk4qktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ouqy0titlebodylang ul {
+  .qk4qktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ouqy0body {
+  .qk4qkbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ouqy0menu {
+  .qk4qkmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ouqy0menulist {
+  .qk4qkmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ouqy0menubody {
+  .qk4qkmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ouqy0menulist ul {
+  .qk4qkmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ouqy0menulist ul a {
+  .qk4qkmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .ouqy0menulist ul a:hover {
+  .qk4qkmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ouqy0menulistactive {
+  .qk4qkmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ouqy0menulistbody {
+  .qk4qkmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .ouqy0bodylogo {
+    .qk4qkbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ouqy0menu {
+    .qk4qkmenu {
       overflow-x: auto;
     }
 
-    .ouqy0menulist ul {
+    .qk4qkmenulist ul {
       flex-direction: row;
     }
 
-    .ouqy0bodylogo {
+    .qk4qkbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ouqy0menulist ul a {
+    .qk4qkmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .px5el {
+  .uchrr {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .px5el-menu {
+  .uchrr-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .px5el-menu > a {
+  .uchrr-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .px5el-menu > a:hover,
-  .px5el-menu > .active {
+  .uchrr-menu > a:hover,
+  .uchrr-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .px5el-body {
+  .uchrr-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .px5el-title {
+  .uchrr-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .px5el-title::before {
+  .uchrr-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .px5el-title span {
+  .uchrr-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .px5el {
+    .uchrr {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .px5el-menu {
+    .uchrr-menu {
       display: none;
     }
-    .px5el-body {
+    .uchrr-body {
       width: 100%;
     }
   }

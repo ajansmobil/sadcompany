@@ -1,5 +1,5 @@
 
-  .qpbzx {
+  .uljzv {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .qpbzxtitle {
+  .uljzvtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .qpbzxtitlebody {
+  .uljzvtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .qpbzxtitlebodytitle {
+  .uljzvtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .qpbzxtitlebodylang {
+  .uljzvtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .qpbzxtitlebodylang ul {
+  .uljzvtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .qpbzxbody {
+  .uljzvbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .qpbzxmenu {
+  .uljzvmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .qpbzxmenulist {
+  .uljzvmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .qpbzxmenubody {
+  .uljzvmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .qpbzxmenulist ul {
+  .uljzvmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .qpbzxmenulist ul a {
+  .uljzvmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .qpbzxmenulist ul a:hover {
+  .uljzvmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .qpbzxmenulistactive {
+  .uljzvmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .qpbzxmenulistbody {
+  .uljzvmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .qpbzxbodylogo {
+    .uljzvbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .qpbzxmenu {
+    .uljzvmenu {
       overflow-x: auto;
     }
 
-    .qpbzxmenulist ul {
+    .uljzvmenulist ul {
       flex-direction: row;
     }
 
-    .qpbzxbodylogo {
+    .uljzvbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,8 +137,78 @@
   }
 
   @media screen and (max-width: 768px) {
-    .qpbzxmenulist ul a {
+    .uljzvmenulist ul a {
       font-size: 14px;
+    }
+  }
+
+
+  .vrhha {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .vrhhabody {
+    width: var(--max);
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    /* 3 columns */
+    justify-content: center;
+    /* Center all grid items */
+  }
+  .vrhhabodyitem {
+    position: relative;
+    aspect-ratio: 7 / 4;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition:
+      transform 0.3s ease,
+      box-shadow 0.3s ease;
+    /* Add ease for smoother transitions */
+    justify-content: center;
+  }
+  .vrhhabodyitem:hover {
+    transform: scale(1.05);
+    /* Zoom effect */
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  }
+  .vrhhabodyitemimg {
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  .vrhhabodyitemimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Cover the entire area */
+  }
+  .vrhhabodyitemtitle {
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+    color: #444;
+    font-size: 1.1em;
+  }
+  @media screen and (max-width: 1024px) {
+    .vrhhabody {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .vrhhabody {
+      grid-template-columns: repeat(2, 1fr);
     }
   }
 
