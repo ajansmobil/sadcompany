@@ -1,5 +1,5 @@
 
-  .rbi3v {
+  .vn60a {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .rbi3vtitle {
+  .vn60atitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .rbi3vtitlebody {
+  .vn60atitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .rbi3vtitlebodytitle {
+  .vn60atitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .rbi3vtitlebodylang {
+  .vn60atitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .rbi3vtitlebodylang ul {
+  .vn60atitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .rbi3vbody {
+  .vn60abody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .rbi3vmenu {
+  .vn60amenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .rbi3vmenulist {
+  .vn60amenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .rbi3vmenubody {
+  .vn60amenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .rbi3vmenulist ul {
+  .vn60amenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .rbi3vmenulist ul a {
+  .vn60amenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .rbi3vmenulist ul a:hover {
+  .vn60amenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .rbi3vmenulistactive {
+  .vn60amenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .rbi3vmenulistbody {
+  .vn60amenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .rbi3vbodylogo {
+    .vn60abodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .rbi3vmenu {
+    .vn60amenu {
       overflow-x: auto;
     }
 
-    .rbi3vmenulist ul {
+    .vn60amenulist ul {
       flex-direction: row;
     }
 
-    .rbi3vbodylogo {
+    .vn60abodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .rbi3vmenulist ul a {
+    .vn60amenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .veke3 {
+  .bw72p {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .veke3-menu {
+  .bw72p-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .veke3-menu > a {
+  .bw72p-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .veke3-menu > a:hover,
-  .veke3-menu > .active {
+  .bw72p-menu > a:hover,
+  .bw72p-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .veke3-body {
+  .bw72p-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .veke3-title {
+  .bw72p-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .veke3-title::before {
+  .bw72p-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .veke3-title span {
+  .bw72p-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .veke3 {
+    .bw72p {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .veke3-menu {
+    .bw72p-menu {
       display: none;
     }
-    .veke3-body {
+    .bw72p-body {
       width: 100%;
     }
   }

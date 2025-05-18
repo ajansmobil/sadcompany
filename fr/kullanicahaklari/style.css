@@ -1,5 +1,5 @@
 
-  .iuei6 {
+  .pie5m {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .iuei6title {
+  .pie5mtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .iuei6titlebody {
+  .pie5mtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .iuei6titlebodytitle {
+  .pie5mtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .iuei6titlebodylang {
+  .pie5mtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .iuei6titlebodylang ul {
+  .pie5mtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .iuei6body {
+  .pie5mbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .iuei6menu {
+  .pie5mmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .iuei6menulist {
+  .pie5mmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .iuei6menubody {
+  .pie5mmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .iuei6menulist ul {
+  .pie5mmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .iuei6menulist ul a {
+  .pie5mmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .iuei6menulist ul a:hover {
+  .pie5mmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .iuei6menulistactive {
+  .pie5mmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .iuei6menulistbody {
+  .pie5mmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .iuei6bodylogo {
+    .pie5mbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .iuei6menu {
+    .pie5mmenu {
       overflow-x: auto;
     }
 
-    .iuei6menulist ul {
+    .pie5mmenulist ul {
       flex-direction: row;
     }
 
-    .iuei6bodylogo {
+    .pie5mbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .iuei6menulist ul a {
+    .pie5mmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .athrv {
+  .th2ws {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .athrv-menu {
+  .th2ws-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .athrv-menu > a {
+  .th2ws-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .athrv-menu > a:hover,
-  .athrv-menu > .active {
+  .th2ws-menu > a:hover,
+  .th2ws-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .athrv-body {
+  .th2ws-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .athrv-title {
+  .th2ws-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .athrv-title::before {
+  .th2ws-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .athrv-title span {
+  .th2ws-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .athrv {
+    .th2ws {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .athrv-menu {
+    .th2ws-menu {
       display: none;
     }
-    .athrv-body {
+    .th2ws-body {
       width: 100%;
     }
   }

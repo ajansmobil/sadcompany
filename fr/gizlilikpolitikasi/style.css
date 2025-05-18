@@ -1,5 +1,5 @@
 
-  .t84bg {
+  .piycj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .t84bgtitle {
+  .piycjtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .t84bgtitlebody {
+  .piycjtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .t84bgtitlebodytitle {
+  .piycjtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .t84bgtitlebodylang {
+  .piycjtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .t84bgtitlebodylang ul {
+  .piycjtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .t84bgbody {
+  .piycjbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .t84bgmenu {
+  .piycjmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .t84bgmenulist {
+  .piycjmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .t84bgmenubody {
+  .piycjmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .t84bgmenulist ul {
+  .piycjmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .t84bgmenulist ul a {
+  .piycjmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .t84bgmenulist ul a:hover {
+  .piycjmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .t84bgmenulistactive {
+  .piycjmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .t84bgmenulistbody {
+  .piycjmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .t84bgbodylogo {
+    .piycjbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .t84bgmenu {
+    .piycjmenu {
       overflow-x: auto;
     }
 
-    .t84bgmenulist ul {
+    .piycjmenulist ul {
       flex-direction: row;
     }
 
-    .t84bgbodylogo {
+    .piycjbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .t84bgmenulist ul a {
+    .piycjmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .yziyo {
+  .oo64u {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .yziyo-menu {
+  .oo64u-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .yziyo-menu > a {
+  .oo64u-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .yziyo-menu > a:hover,
-  .yziyo-menu > .active {
+  .oo64u-menu > a:hover,
+  .oo64u-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .yziyo-body {
+  .oo64u-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .yziyo-title {
+  .oo64u-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .yziyo-title::before {
+  .oo64u-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .yziyo-title span {
+  .oo64u-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .yziyo {
+    .oo64u {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .yziyo-menu {
+    .oo64u-menu {
       display: none;
     }
-    .yziyo-body {
+    .oo64u-body {
       width: 100%;
     }
   }

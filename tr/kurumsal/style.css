@@ -1,5 +1,5 @@
 
-  .avs11 {
+  .zkzx3 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .avs11title {
+  .zkzx3title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .avs11titlebody {
+  .zkzx3titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .avs11titlebodytitle {
+  .zkzx3titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .avs11titlebodylang {
+  .zkzx3titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .avs11titlebodylang ul {
+  .zkzx3titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .avs11body {
+  .zkzx3body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .avs11menu {
+  .zkzx3menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .avs11menulist {
+  .zkzx3menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .avs11menubody {
+  .zkzx3menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .avs11menulist ul {
+  .zkzx3menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .avs11menulist ul a {
+  .zkzx3menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .avs11menulist ul a:hover {
+  .zkzx3menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .avs11menulistactive {
+  .zkzx3menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .avs11menulistbody {
+  .zkzx3menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .avs11bodylogo {
+    .zkzx3bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .avs11menu {
+    .zkzx3menu {
       overflow-x: auto;
     }
 
-    .avs11menulist ul {
+    .zkzx3menulist ul {
       flex-direction: row;
     }
 
-    .avs11bodylogo {
+    .zkzx3bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .avs11menulist ul a {
+    .zkzx3menulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .jxrjx {
+  .cmhz5 {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .jxrjx-menu {
+  .cmhz5-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .jxrjx-menu > a {
+  .cmhz5-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .jxrjx-menu > a:hover,
-  .jxrjx-menu > .active {
+  .cmhz5-menu > a:hover,
+  .cmhz5-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .jxrjx-body {
+  .cmhz5-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .jxrjx-title {
+  .cmhz5-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .jxrjx-title::before {
+  .cmhz5-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .jxrjx-title span {
+  .cmhz5-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .jxrjx {
+    .cmhz5 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .jxrjx-menu {
+    .cmhz5-menu {
       display: none;
     }
-    .jxrjx-body {
+    .cmhz5-body {
       width: 100%;
     }
   }
