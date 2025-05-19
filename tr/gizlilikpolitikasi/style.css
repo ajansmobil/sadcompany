@@ -1,5 +1,5 @@
 
-  .r9lzm {
+  .l9kcu {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .r9lzmtitle {
+  .l9kcutitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .r9lzmtitlebody {
+  .l9kcutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .r9lzmtitlebodytitle {
+  .l9kcutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .r9lzmtitlebodylang {
+  .l9kcutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .r9lzmtitlebodylang ul {
+  .l9kcutitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .r9lzmbody {
+  .l9kcubody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .r9lzmmenu {
+  .l9kcumenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .r9lzmmenulist {
+  .l9kcumenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .r9lzmmenubody {
+  .l9kcumenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .r9lzmmenulist ul {
+  .l9kcumenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .r9lzmmenulist ul a {
+  .l9kcumenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .r9lzmmenulist ul a:hover {
+  .l9kcumenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .r9lzmmenulistactive {
+  .l9kcumenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .r9lzmmenulistbody {
+  .l9kcumenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .r9lzmbodylogo {
+    .l9kcubodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .r9lzmmenu {
+    .l9kcumenu {
       overflow-x: auto;
     }
 
-    .r9lzmmenulist ul {
+    .l9kcumenulist ul {
       flex-direction: row;
     }
 
-    .r9lzmbodylogo {
+    .l9kcubodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .r9lzmmenulist ul a {
+    .l9kcumenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .aado6 {
+  .lslei {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .aado6-menu {
+  .lslei-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .aado6-menu > a {
+  .lslei-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .aado6-menu > a:hover,
-  .aado6-menu > .active {
+  .lslei-menu > a:hover,
+  .lslei-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .aado6-body {
+  .lslei-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .aado6-title {
+  .lslei-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,35 +193,35 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .aado6-title::before {
+  .lslei-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/gizlilikpolitikasi/bg/1.jpg");
+    background-image: url("/page/gizlilikpolitikasi/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
     z-index: 1;
   }
-  .aado6-title span {
+  .lslei-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .aado6 {
+    .lslei {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .aado6-menu {
+    .lslei-menu {
       display: none;
     }
-    .aado6-body {
+    .lslei-body {
       width: 100%;
     }
   }

@@ -1,5 +1,5 @@
 
-  .agsd5 {
+  .z6phl {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .agsd5title {
+  .z6phltitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .agsd5titlebody {
+  .z6phltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .agsd5titlebodytitle {
+  .z6phltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .agsd5titlebodylang {
+  .z6phltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .agsd5titlebodylang ul {
+  .z6phltitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .agsd5body {
+  .z6phlbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .agsd5menu {
+  .z6phlmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .agsd5menulist {
+  .z6phlmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .agsd5menubody {
+  .z6phlmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .agsd5menulist ul {
+  .z6phlmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .agsd5menulist ul a {
+  .z6phlmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .agsd5menulist ul a:hover {
+  .z6phlmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .agsd5menulistactive {
+  .z6phlmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .agsd5menulistbody {
+  .z6phlmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .agsd5bodylogo {
+    .z6phlbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .agsd5menu {
+    .z6phlmenu {
       overflow-x: auto;
     }
 
-    .agsd5menulist ul {
+    .z6phlmenulist ul {
       flex-direction: row;
     }
 
-    .agsd5bodylogo {
+    .z6phlbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,19 +137,19 @@
   }
 
   @media screen and (max-width: 768px) {
-    .agsd5menulist ul a {
+    .z6phlmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .bi9ew {
+  .gtlkq {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .bi9ewbody {
+  .gtlkqbody {
     width: var(--max);
     display: grid;
     gap: 20px;
@@ -158,7 +158,7 @@
     justify-content: center;
     /* Center all grid items */
   }
-  .bi9ewbodyitem {
+  .gtlkqbodyitem {
     position: relative;
     aspect-ratio: 7 / 4;
     background-color: #ffffff;
@@ -173,12 +173,12 @@
     /* Add ease for smoother transitions */
     justify-content: center;
   }
-  .bi9ewbodyitem:hover {
+  .gtlkqbodyitem:hover {
     transform: scale(1.05);
     /* Zoom effect */
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
   }
-  .bi9ewbodyitemimg {
+  .gtlkqbodyitemimg {
     aspect-ratio: 1 / 1;
     display: flex;
     justify-content: center;
@@ -187,13 +187,13 @@
     overflow: hidden;
     margin-bottom: 10px;
   }
-  .bi9ewbodyitemimg img {
+  .gtlkqbodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     /* Cover the entire area */
   }
-  .bi9ewbodyitemtitle {
+  .gtlkqbodyitemtitle {
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -202,12 +202,12 @@
     font-size: 1.1em;
   }
   @media screen and (max-width: 1024px) {
-    .bi9ewbody {
+    .gtlkqbody {
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .bi9ewbody {
+    .gtlkqbody {
       grid-template-columns: repeat(2, 1fr);
     }
   }

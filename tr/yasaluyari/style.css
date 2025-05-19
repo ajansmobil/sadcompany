@@ -1,5 +1,5 @@
 
-  .vhw7z {
+  .dw17t {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .vhw7ztitle {
+  .dw17ttitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .vhw7ztitlebody {
+  .dw17ttitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .vhw7ztitlebodytitle {
+  .dw17ttitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .vhw7ztitlebodylang {
+  .dw17ttitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .vhw7ztitlebodylang ul {
+  .dw17ttitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .vhw7zbody {
+  .dw17tbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .vhw7zmenu {
+  .dw17tmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .vhw7zmenulist {
+  .dw17tmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .vhw7zmenubody {
+  .dw17tmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .vhw7zmenulist ul {
+  .dw17tmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .vhw7zmenulist ul a {
+  .dw17tmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .vhw7zmenulist ul a:hover {
+  .dw17tmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .vhw7zmenulistactive {
+  .dw17tmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .vhw7zmenulistbody {
+  .dw17tmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .vhw7zbodylogo {
+    .dw17tbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .vhw7zmenu {
+    .dw17tmenu {
       overflow-x: auto;
     }
 
-    .vhw7zmenulist ul {
+    .dw17tmenulist ul {
       flex-direction: row;
     }
 
-    .vhw7zbodylogo {
+    .dw17tbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .vhw7zmenulist ul a {
+    .dw17tmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .n3ud8 {
+  .dulxs {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .n3ud8-menu {
+  .dulxs-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .n3ud8-menu > a {
+  .dulxs-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .n3ud8-menu > a:hover,
-  .n3ud8-menu > .active {
+  .dulxs-menu > a:hover,
+  .dulxs-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .n3ud8-body {
+  .dulxs-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .n3ud8-title {
+  .dulxs-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,35 +193,35 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .n3ud8-title::before {
+  .dulxs-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/yasaluyari/bg/1.jpg");
+    background-image: url("/page/yasaluyari/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
     z-index: 1;
   }
-  .n3ud8-title span {
+  .dulxs-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .n3ud8 {
+    .dulxs {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .n3ud8-menu {
+    .dulxs-menu {
       display: none;
     }
-    .n3ud8-body {
+    .dulxs-body {
       width: 100%;
     }
   }

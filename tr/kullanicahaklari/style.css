@@ -1,5 +1,5 @@
 
-  .gl9hb {
+  .bapbl {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .gl9hbtitle {
+  .bapbltitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .gl9hbtitlebody {
+  .bapbltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .gl9hbtitlebodytitle {
+  .bapbltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .gl9hbtitlebodylang {
+  .bapbltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .gl9hbtitlebodylang ul {
+  .bapbltitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .gl9hbbody {
+  .bapblbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .gl9hbmenu {
+  .bapblmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .gl9hbmenulist {
+  .bapblmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .gl9hbmenubody {
+  .bapblmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .gl9hbmenulist ul {
+  .bapblmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .gl9hbmenulist ul a {
+  .bapblmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .gl9hbmenulist ul a:hover {
+  .bapblmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .gl9hbmenulistactive {
+  .bapblmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .gl9hbmenulistbody {
+  .bapblmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .gl9hbbodylogo {
+    .bapblbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .gl9hbmenu {
+    .bapblmenu {
       overflow-x: auto;
     }
 
-    .gl9hbmenulist ul {
+    .bapblmenulist ul {
       flex-direction: row;
     }
 
-    .gl9hbbodylogo {
+    .bapblbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .gl9hbmenulist ul a {
+    .bapblmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .sxecl {
+  .e8iav {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .sxecl-menu {
+  .e8iav-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .sxecl-menu > a {
+  .e8iav-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .sxecl-menu > a:hover,
-  .sxecl-menu > .active {
+  .e8iav-menu > a:hover,
+  .e8iav-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .sxecl-body {
+  .e8iav-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .sxecl-title {
+  .e8iav-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,35 +193,35 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .sxecl-title::before {
+  .e8iav-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kullanicahaklari/bg/1.jpg");
+    background-image: url("/page/kullanicahaklari/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
     z-index: 1;
   }
-  .sxecl-title span {
+  .e8iav-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .sxecl {
+    .e8iav {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .sxecl-menu {
+    .e8iav-menu {
       display: none;
     }
-    .sxecl-body {
+    .e8iav-body {
       width: 100%;
     }
   }

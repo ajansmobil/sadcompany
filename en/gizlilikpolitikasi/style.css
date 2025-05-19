@@ -1,5 +1,5 @@
 
-  .yf0b2 {
+  .gcsc7 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .yf0b2title {
+  .gcsc7title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .yf0b2titlebody {
+  .gcsc7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .yf0b2titlebodytitle {
+  .gcsc7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .yf0b2titlebodylang {
+  .gcsc7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .yf0b2titlebodylang ul {
+  .gcsc7titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .yf0b2body {
+  .gcsc7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .yf0b2menu {
+  .gcsc7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .yf0b2menulist {
+  .gcsc7menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .yf0b2menubody {
+  .gcsc7menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .yf0b2menulist ul {
+  .gcsc7menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .yf0b2menulist ul a {
+  .gcsc7menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .yf0b2menulist ul a:hover {
+  .gcsc7menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .yf0b2menulistactive {
+  .gcsc7menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .yf0b2menulistbody {
+  .gcsc7menulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .yf0b2bodylogo {
+    .gcsc7bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .yf0b2menu {
+    .gcsc7menu {
       overflow-x: auto;
     }
 
-    .yf0b2menulist ul {
+    .gcsc7menulist ul {
       flex-direction: row;
     }
 
-    .yf0b2bodylogo {
+    .gcsc7bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .yf0b2menulist ul a {
+    .gcsc7menulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .qu7rv {
+  .z771u {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .qu7rv-menu {
+  .z771u-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .qu7rv-menu > a {
+  .z771u-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .qu7rv-menu > a:hover,
-  .qu7rv-menu > .active {
+  .z771u-menu > a:hover,
+  .z771u-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .qu7rv-body {
+  .z771u-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .qu7rv-title {
+  .z771u-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,35 +193,35 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .qu7rv-title::before {
+  .z771u-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/gizlilikpolitikasi/bg/1.jpg");
+    background-image: url("/page/gizlilikpolitikasi/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
     z-index: 1;
   }
-  .qu7rv-title span {
+  .z771u-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .qu7rv {
+    .z771u {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .qu7rv-menu {
+    .z771u-menu {
       display: none;
     }
-    .qu7rv-body {
+    .z771u-body {
       width: 100%;
     }
   }

@@ -1,5 +1,5 @@
 
-  .l7iwm {
+  .dpbna {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .l7iwmtitle {
+  .dpbnatitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .l7iwmtitlebody {
+  .dpbnatitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .l7iwmtitlebodytitle {
+  .dpbnatitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .l7iwmtitlebodylang {
+  .dpbnatitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .l7iwmtitlebodylang ul {
+  .dpbnatitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .l7iwmbody {
+  .dpbnabody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .l7iwmmenu {
+  .dpbnamenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .l7iwmmenulist {
+  .dpbnamenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .l7iwmmenubody {
+  .dpbnamenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .l7iwmmenulist ul {
+  .dpbnamenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .l7iwmmenulist ul a {
+  .dpbnamenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .l7iwmmenulist ul a:hover {
+  .dpbnamenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .l7iwmmenulistactive {
+  .dpbnamenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .l7iwmmenulistbody {
+  .dpbnamenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .l7iwmbodylogo {
+    .dpbnabodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .l7iwmmenu {
+    .dpbnamenu {
       overflow-x: auto;
     }
 
-    .l7iwmmenulist ul {
+    .dpbnamenulist ul {
       flex-direction: row;
     }
 
-    .l7iwmbodylogo {
+    .dpbnabodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .l7iwmmenulist ul a {
+    .dpbnamenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .idswb {
+  .v1gr0 {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .idswb-menu {
+  .v1gr0-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .idswb-menu > a {
+  .v1gr0-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .idswb-menu > a:hover,
-  .idswb-menu > .active {
+  .v1gr0-menu > a:hover,
+  .v1gr0-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .idswb-body {
+  .v1gr0-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .idswb-title {
+  .v1gr0-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,35 +193,35 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .idswb-title::before {
+  .v1gr0-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kalitepolitikamiz/bg/1.jpg");
+    background-image: url("/page/kalitepolitikamiz/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
     z-index: 1;
   }
-  .idswb-title span {
+  .v1gr0-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .idswb {
+    .v1gr0 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .idswb-menu {
+    .v1gr0-menu {
       display: none;
     }
-    .idswb-body {
+    .v1gr0-body {
       width: 100%;
     }
   }
