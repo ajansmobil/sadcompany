@@ -1,5 +1,5 @@
 
-  .l9kcu {
+  .qumml {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .l9kcutitle {
+  .qummltitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .l9kcutitlebody {
+  .qummltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .l9kcutitlebodytitle {
+  .qummltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .l9kcutitlebodylang {
+  .qummltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .l9kcutitlebodylang ul {
+  .qummltitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .l9kcubody {
+  .qummlbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .l9kcumenu {
+  .qummlmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .l9kcumenulist {
+  .qummlmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .l9kcumenubody {
+  .qummlmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .l9kcumenulist ul {
+  .qummlmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .l9kcumenulist ul a {
+  .qummlmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .l9kcumenulist ul a:hover {
+  .qummlmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .l9kcumenulistactive {
+  .qummlmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .l9kcumenulistbody {
+  .qummlmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .l9kcubodylogo {
+    .qummlbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .l9kcumenu {
+    .qummlmenu {
       overflow-x: auto;
     }
 
-    .l9kcumenulist ul {
+    .qummlmenulist ul {
       flex-direction: row;
     }
 
-    .l9kcubodylogo {
+    .qummlbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .l9kcumenulist ul a {
+    .qummlmenulist ul a {
       font-size: 14px;
     }
   }
@@ -146,13 +146,13 @@
   #content {
     justify-content: start;
   }
-  .lslei {
+  .d3rdq {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .lslei-menu {
+  .d3rdq-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -162,7 +162,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .lslei-menu > a {
+  .d3rdq-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -170,18 +170,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .lslei-menu > a:hover,
-  .lslei-menu > .active {
+  .d3rdq-menu > a:hover,
+  .d3rdq-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .lslei-body {
+  .d3rdq-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .lslei-title {
+  .d3rdq-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -193,7 +193,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .lslei-title::before {
+  .d3rdq-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -207,21 +207,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .lslei-title span {
+  .d3rdq-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .lslei {
+    .d3rdq {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .lslei-menu {
+    .d3rdq-menu {
       display: none;
     }
-    .lslei-body {
+    .d3rdq-body {
       width: 100%;
     }
   }

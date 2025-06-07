@@ -1,5 +1,5 @@
 
-  .yoxdw {
+  .aglbg {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .yoxdwtitle {
+  .aglbgtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .yoxdwtitlebody {
+  .aglbgtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .yoxdwtitlebodytitle {
+  .aglbgtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .yoxdwtitlebodylang {
+  .aglbgtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .yoxdwtitlebodylang ul {
+  .aglbgtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .yoxdwbody {
+  .aglbgbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .yoxdwmenu {
+  .aglbgmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .yoxdwmenulist {
+  .aglbgmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .yoxdwmenubody {
+  .aglbgmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .yoxdwmenulist ul {
+  .aglbgmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .yoxdwmenulist ul a {
+  .aglbgmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,27 +93,27 @@
     white-space: nowrap;
   }
 
-  .yoxdwmenulist ul a:hover {
+  .aglbgmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .yoxdwmenulistactive {
+  .aglbgmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .yoxdwmenulistbody {
+  .aglbgmenulistbody {
     width: 100%;
   }
 
 
   @media screen and (min-width: 1024px) {
-    .yoxdwbodylogo {
+    .aglbgbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -121,15 +121,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .yoxdwmenu {
+    .aglbgmenu {
       overflow-x: auto;
     }
 
-    .yoxdwmenulist ul {
+    .aglbgmenulist ul {
       flex-direction: row;
     }
 
-    .yoxdwbodylogo {
+    .aglbgbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -137,7 +137,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .yoxdwmenulist ul a {
+    .aglbgmenulist ul a {
       font-size: 14px;
     }
   }
@@ -173,10 +173,10 @@
   }
 
 
-  .title-b4bmq {
+  .title-pfz1i {
     font-size: 18px;
   }
-  .b4bmqbody {
+  .pfz1ibody {
     display: flex;
     align-items: stretch;
     padding: 15px 0px 15px 0px;
@@ -187,20 +187,20 @@
     align-items: center;
     justify-content: center;
   }
-  .swiper-pagination-b4bmq {
+  .swiper-pagination-pfz1i {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 5px !important;
   }
-  .sliderxb4bmq {
+  .sliderxpfz1i {
     position: relative;
     width: 100%;
     max-width: var(--max);
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .slider-b4bmqt-itle {
+  .slider-pfz1it-itle {
     width: 100%;
     font-size: 28px;
     font-weight: 500;
@@ -209,8 +209,8 @@
     justify-content: left;
     margin-bottom: 10px;
   }
-  .swiper-button-prev-b4bmq,
-  .swiper-button-next-b4bmq {
+  .swiper-button-prev-pfz1i,
+  .swiper-button-next-pfz1i {
     color: #000 !important;
     font-size: 28px;
     font-weight: bold;
@@ -222,18 +222,18 @@
     transform: translateY(-50%);
     /* Center it vertically */
   }
-  .swiper-button-prev-b4bmq {
+  .swiper-button-prev-pfz1i {
     left: -30px !important;
   }
-  .swiper-button-next-b4bmq {
+  .swiper-button-next-pfz1i {
     right: -30px !important;
   }
   @media screen and (max-width: 1024px) {
-    .sliderxb4bmq {
+    .sliderxpfz1i {
       width: 100%;
     }
   }
-  .img-b4bmq {
+  .img-pfz1i {
     aspect-ratio: 1/1;
     display: flex;
     align-items: center;
@@ -246,7 +246,7 @@
     position: relative;
     overflow: hidden;
   }
-  .img-b4bmq > img {
+  .img-pfz1i > img {
     max-height: 100%;
     max-width: 100%;
     object-fit: contain;
@@ -257,7 +257,7 @@
     top: 0;
     left: 0;
   }
-  .spot-b4bmq {
+  .spot-pfz1i {
     flex: 1;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -266,33 +266,33 @@
     text-overflow: ellipsis;
     white-space: normal;
   }
-  .button-b4bmq {
+  .button-pfz1i {
     background-color: #1e3046;
     padding: 8px;
     border-radius: 5px;
     color: #fff;
     display: flex;
   }
-  .button-b4bmq > * {
+  .button-pfz1i > * {
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .button-b4bmq:hover {
+  .button-pfz1i:hover {
     filter: brightness(0.9);
     transition: filter 0.3s;
   }
-  .button-b4bmq:hover span {
+  .button-pfz1i:hover span {
     transform: translateX(8px) scale(1.2);
     /* Move and scale the icon */
     transition:
       transform 0.4s ease,
       color 0.4s ease;
   }
-  .button-b4bmq:hover .w100 {
+  .button-pfz1i:hover .w100 {
     transition: color 0.4s ease;
   }
-  .swiper-b4bmq {
+  .swiper-pfz1i {
     background-color: #fff;
     aspect-ratio: 3/4;
     width: 100%;
@@ -307,15 +307,15 @@
     transition: filter 0.3s;
     cursor: pointer;
   }
-  .b4bmq {
+  .pfz1i {
     overflow-x: auto;
   }
-  .b4bmq::-webkit-scrollbar {
+  .pfz1i::-webkit-scrollbar {
     display: none;
   }
 
 
-  .fitfo {
+  .jmnpf {
     width: 100%;
     margin: --margin--;
     display: flex;
@@ -323,13 +323,13 @@
     justify-content: center;
     position: relative;
   }
-  .fitfocontainertitle {
+  .jmnpfcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
-  .fitfocontainerlist {
+  .jmnpfcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -337,23 +337,23 @@
     gap: 20px;
     transition: background-color 0.3s ease;
   }
-  .fitfocontainerlist > div {
+  .jmnpfcontainerlist > div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
-  .fitfocontainerlist:hover {
+  .jmnpfcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
-  .fitfocontainer {
+  .jmnpfcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
-  .fitfocontainerbody {
+  .jmnpfcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -362,24 +362,24 @@
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
-  .fitfobody {
+  .jmnpfbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
     border-radius: 10px;
     padding: 20px;
   }
-  .fitfocontainerlist > span {
+  .jmnpfcontainerlist > span {
     font-size: 24px;
     color: #1e3046;
   }
   @media screen and (max-width: 1024px) {
-    .fitfobody {
+    .jmnpfbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
-    .fitfocontainerbody {
+    .jmnpfcontainerbody {
       padding: 15px;
     }
   }
@@ -409,13 +409,13 @@
       transform: scale(1);
     }
   }
-  .a1gzg-body {
+  .bvvav-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .a1gzg-body-chile {
+  .bvvav-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -423,10 +423,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .a1gzg-body-chile > div {
+  .bvvav-body-chile > div {
     width: 100% !important;
   }
-  .a1gzg2 {
+  .bvvav2 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -437,21 +437,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .a1gzg {
+  .bvvav {
     display: flex;
     flex-direction: column;
   }
-  .a1gzg > svg {
+  .bvvav > svg {
     width: 100vw;
   }
-  .a1gzgbotton {
+  .bvvavbotton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .a1gzg-svg {
+  .bvvav-svg {
     fill: #fff;
   }
-  .a1gzg-bg {
+  .bvvav-bg {
     background-image: url("/img/n0fc7s/map.png?v={{random}}") !important;
     background-size: cover;
     background-position: center center;
