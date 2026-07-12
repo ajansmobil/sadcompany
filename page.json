@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة",
+        "fr": "Entreprise"
+      },
+      "status": "play",
+      "category": "",
+      "id": "i22l6u7typ",
+      "externalUrl": "",
+      "path": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat, kurumsal, hakkımızda, misyon, vizyon, kalite politikası",
+        "en": "Sad Import, corporate, about us, mission, vision, quality policy",
+        "ar": "ساد للاستيراد، الشركة، من نحن، المهمة، الرؤية، سياسة الجودة",
+        "fr": "Sad Import, entreprise, à propos, mission, vision, politique qualité"
+      },
+      "description": {
+        "tr": "Sad İthalat kurumsal sayfası - Şirketimiz hakkında detaylı bilgi, misyon ve vizyonumuz, kalite politikamız ve daha fazlası.",
+        "en": "Sad Import corporate page - Detailed information about our company, our mission and vision, quality policy and more.",
+        "ar": "صفحة شركة ساد للاستيراد - معلومات مفصلة عن شركتنا، مهمتنا ورؤيتنا، سياسة الجودة والمزيد.",
+        "fr": "Page entreprise Sad Import - Informations détaillées sur notre entreprise, notre mission et vision, politique qualité et plus."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Ürünlerimiz",
+        "en": "Our Products",
+        "ar": "منتجاتنا",
+        "fr": "Nos Produits"
+      },
+      "status": "play",
+      "category": "",
+      "id": "vldccl12xu",
+      "externalUrl": "",
+      "path": "urunlerimiz",
+      "keyword": {
+        "tr": "Sad İthalat ürünleri, EVA ürünleri, PVC ürünleri, premium ürünler",
+        "en": "Sad Import products, EVA products, PVC products, premium products",
+        "ar": "منتجات ساد للاستيراد، منتجات إيفا، منتجات بولي كلوريد الفينيل، منتجات متميزة",
+        "fr": "Produits Sad Import, produits EVA, produits PVC, produits premium"
+      },
+      "description": {
+        "tr": "Sad İthalat ürün kataloğu - EVA ve PVC ürünlerimiz hakkında detaylı bilgi ve teknik özellikler.",
+        "en": "Sad Import product catalog - Detailed information and technical specifications about our EVA and PVC products.",
+        "ar": "كتالوج منتجات ساد للاستيراد - معلومات مفصلة ومواصفات تقنية لمنتجات إيفا وبولي كلوريد الفينيل.",
+        "fr": "Catalogue de produits Sad Import - Informations détaillées et spécifications techniques de nos produits EVA et PVC."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "c0ajtk"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا",
+        "fr": "Contact"
+      },
+      "status": "play",
+      "category": "",
+      "id": "fe8pgiqyla",
+      "externalUrl": "",
+      "path": "iletisim",
+      "keyword": {
+        "tr": "Sad İthalat iletişim, adres, telefon, e-posta, iletişim formu",
+        "en": "Sad Import contact, address, phone, email, contact form",
+        "ar": "اتصال ساد للاستيراد، العنوان، الهاتف، البريد الإلكتروني، نموذج الاتصال",
+        "fr": "Contact Sad Import, adresse, téléphone, email, formulaire de contact"
+      },
+      "description": {
+        "tr": "Sad İthalat iletişim bilgileri - Adres, telefon, e-posta ve iletişim formu ile bize ulaşın.",
+        "en": "Sad Import contact information - Reach us through address, phone, email and contact form.",
+        "ar": "معلومات الاتصال بساد للاستيراد - تواصل معنا عبر العنوان والهاتف والبريد الإلكتروني ونموذج الاتصال.",
+        "fr": "Coordonnées Sad Import - Contactez-nous par adresse, téléphone, email et formulaire de contact."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "ykgpx7",
+          "n0fc7s"
+        ],
+        "footer": []
+      }
+    }
+  ]
+}

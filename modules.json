@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "logo": "logo.png",
+        "bgcolor": "#1e3046"
+      },
+      "id": "t7zg27"
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#fff"
+      },
+      "id": "hgtw4y",
+      "index": 1
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000
+      },
+      "data": [
+        {
+          "img": "1.png"
+        }
+      ],
+      "id": "adl7rq"
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#fff",
+        "color": "#1e3046",
+        "img": "map.png",
+        "externalUrl": ""
+      },
+      "id": "n0fc7s",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "",
+          "ar": "",
+          "fr": ""
+        }
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0530 048 79 80‎",
+          "url": "tel:05300487980"
+        },
+        {
+          "icon": "email",
+          "text": "sad.ithalat.ihracat@gmail.com"
+        },
+        {
+          "icon": "map",
+          "text": "Sanayi Mah. 60280 Cad.no:7 Şehitkamil Gaziantep"
+        }
+      ],
+      "id": "ykgpx7"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing 3",
+      "path": "page-desing-3",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "category": "kurumsal"
+      },
+      "id": "yjcx1l"
+    },
+    {
+      "index": 6,
+      "name": "Ürünler",
+      "path": "page-slider-2",
+      "local": "body",
+      "category": "page-slider",
+      "desing": {
+        "page": "products",
+        "color": "#1e3046",
+        "aspect-ratio": "1/1",
+        "name": {
+          "tr": "Ürünlerimiz",
+          "en": "",
+          "ar": "",
+          "fr": ""
+        },
+        "margin-top": "20",
+        "margin-bottom": "20"
+      },
+      "id": "c25w6n"
+    },
+    {
+      "index": 7,
+      "name": "Page Desing 2",
+      "path": "page-desing-4",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "menu-active": "#1e3046",
+        "category": "products"
+      },
+      "id": "uqqvpl"
+    },
+    {
+      "index": 8,
+      "name": "Sayfa Listesi Column",
+      "path": "page-list-2",
+      "local": "body",
+      "category": "page-list",
+      "desing": {
+        "bgcolor": "#fff",
+        "color": "#000",
+        "page": "products",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "id": "c0ajtk"
+    }
+  ]
+}

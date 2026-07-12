@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true
+      }
+    },
+    {
+      "name": "Ürünler",
+      "path": "products",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": ["uqqvpl"],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "bgimg": true,
+        "detail": true
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": ["yjcx1l"],
+        "footer": []
+      },
+      "modulestatus": {
+        "bgimg": true
+      }
+    }
+  ]
+}

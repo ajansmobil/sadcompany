@@ -1,0 +1,294 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة",
+        "fr": "Entreprise"
+      },
+      "status": "play",
+      "id": "kurumsal",
+      "path": "kurumsal",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Sad İthalat, kurumsal, hakkımızda, misyon, vizyon, kalite politikası, güvenilir ticaret ortağı",
+        "en": "Sad Import, corporate, about us, mission, vision, quality policy, reliable trading partner",
+        "ar": "ساد للاستيراد، الشركة، من نحن، المهمة، الرؤية، سياسة الجودة، شريك تجاري موثوق",
+        "fr": "Sad Import, entreprise, à propos, mission, vision, politique qualité, partenaire commercial fiable"
+      },
+      "description": {
+        "tr": "Sad İthalat kurumsal sayfası - Şirketimiz hakkında detaylı bilgi, misyon ve vizyonumuz, kalite politikamız ve daha fazlası.",
+        "en": "Sad Import corporate page - Detailed information about our company, our mission and vision, quality policy and more.",
+        "ar": "صفحة شركة ساد للاستيراد - معلومات مفصلة عن شركتنا، مهمتنا ورؤيتنا، سياسة الجودة والمزيد.",
+        "fr": "Page entreprise Sad Import - Informations détaillées sur notre entreprise, notre mission et vision, politique qualité et plus."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 0,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "من نحن",
+        "fr": "À Propos"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Sad İthalat, hakkımızda, kurumsal kimlik, kalite standartları, müşteri memnuniyeti",
+        "en": "Sad Import, about us, corporate identity, quality standards, customer satisfaction",
+        "ar": "ساد للاستيراد، من نحن، الهوية المؤسسية، معايير الجودة، رضا العملاء",
+        "fr": "Sad Import, à propos, identité d'entreprise, normes de qualité, satisfaction client"
+      },
+      "description": {
+        "tr": "Sad İthalat hakkında detaylı bilgi - Şirketimizin kurumsal kimliği, kalite standartları ve müşteri odaklı yaklaşımımız.",
+        "en": "Detailed information about Sad Import - Our corporate identity, quality standards and customer-focused approach.",
+        "ar": "معلومات مفصلة عن ساد للاستيراد - هويتنا المؤسسية، معايير الجودة ونهجنا المرتكز على العملاء.",
+        "fr": "Informations détaillées sur Sad Import - Notre identité d'entreprise, nos normes de qualité et notre approche centrée sur le client."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 1,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "المهمة",
+        "fr": "Mission"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Sad İthalat misyonu, premium ürünler, ithalat ihracat, Alabo ürünleri",
+        "en": "Sad Import mission, premium products, import export, Alabo products",
+        "ar": "مهمة ساد للاستيراد، منتجات متميزة، استيراد تصدير، منتجات علابو",
+        "fr": "Mission Sad Import, produits premium, import export, produits Alabo"
+      },
+      "description": {
+        "tr": "Sad İthalat'ın misyonu, premium ürünlerin ithalat ve ihracatında müşterilerine en kaliteli hizmeti sunmak ve işletmelerin başarısını teşvik etmektir.",
+        "en": "Sad Import's mission is to provide the highest quality service to its customers in the import and export of premium products and to promote business success.",
+        "ar": "مهمة ساد للاستيراد هي تقديم أعلى خدمة جودة لعملائها في استيراد وتصدير المنتجات المتميزة وتعزيز نجاح الأعمال.",
+        "fr": "La mission de Sad Import est de fournir le service de la plus haute qualité à ses clients dans l'importation et l'exportation de produits premium et de promouvoir le succès des entreprises."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 2,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "الرؤية",
+        "fr": "Vision"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Sad İthalat vizyonu, lider firma, premium ürünler, güvenilir ticaret ortağı",
+        "en": "Sad Import vision, leading company, premium products, reliable trading partner",
+        "ar": "رؤية ساد للاستيراد، شركة رائدة، منتجات متميزة، شريك تجاري موثوق",
+        "fr": "Vision Sad Import, entreprise leader, produits premium, partenaire commercial fiable"
+      },
+      "description": {
+        "tr": "Sad İthalat'ın vizyonu, premium ürünlerin ithalat ve ihracatında sektörün lider firması olmak ve küresel pazarlarda güvenilir bir ticaret ortağı olmaktır.",
+        "en": "Sad Import's vision is to be the leading company in the import and export of premium products and to be a reliable trading partner in global markets.",
+        "ar": "رؤية ساد للاستيراد هي أن تكون الشركة الرائدة في استيراد وتصدير المنتجات المتميزة وأن تكون شريكاً تجارياً موثوقاً في الأسواق العالمية.",
+        "fr": "La vision de Sad Import est d'être l'entreprise leader dans l'importation et l'exportation de produits premium et d'être un partenaire commercial fiable sur les marchés mondiaux."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 3,
+      "desc": {},
+      "icon": "home",
+      "bgimg": "1.jpg"
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Quality Policy",
+        "ar": "سياسة الجودة",
+        "fr": "Politique Qualité"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalitepolitikamiz",
+      "category": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat kalite politikası, müşteri memnuniyeti, kalite standartları, sürekli iyileştirme",
+        "en": "Sad Import quality policy, customer satisfaction, quality standards, continuous improvement",
+        "ar": "سياسة جودة ساد للاستيراد، رضا العملاء، معايير الجودة، التحسين المستمر",
+        "fr": "Politique qualité Sad Import, satisfaction client, normes de qualité, amélioration continue"
+      },
+      "description": {
+        "tr": "Sad İthalat'ın kalite politikası, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır.",
+        "en": "Sad Import's quality policy is based on an approach that aims to maintain customer satisfaction at the highest level and continuous improvement.",
+        "ar": "تستند سياسة جودة ساد للاستيراد إلى نهج يهدف إلى الحفاظ على رضا العملاء بأعلى مستوى والتحسين المستمر.",
+        "fr": "La politique qualité de Sad Import est basée sur une approche qui vise à maintenir la satisfaction client au plus haut niveau et l'amélioration continue."
+      }
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية",
+        "fr": "Politique de Confidentialité"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilikpolitikasi",
+      "category": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat gizlilik politikası, kişisel veriler, çerezler, veri güvenliği",
+        "en": "Sad Import privacy policy, personal data, cookies, data security",
+        "ar": "سياسة خصوصية ساد للاستيراد، البيانات الشخصية، ملفات تعريف الارتباط، أمن البيانات",
+        "fr": "Politique de confidentialité Sad Import, données personnelles, cookies, sécurité des données"
+      },
+      "description": {
+        "tr": "Sad İthalat gizlilik politikası - Kişisel verilerinizin güvenliği ve gizliliği hakkında detaylı bilgi.",
+        "en": "Sad Import privacy policy - Detailed information about the security and privacy of your personal data.",
+        "ar": "سياسة خصوصية ساد للاستيراد - معلومات مفصلة عن أمن وخصوصية بياناتك الشخصية.",
+        "fr": "Politique de confidentialité Sad Import - Informations détaillées sur la sécurité et la confidentialité de vos données personnelles."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية",
+        "fr": "Données Personnelles"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisiselveriler",
+      "category": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat kişisel veriler, KVKK, veri güvenliği, veri koruma",
+        "en": "Sad Import personal data, KVKK, data security, data protection",
+        "ar": "ساد للاستيراد البيانات الشخصية، قانون حماية البيانات، أمن البيانات، حماية البيانات",
+        "fr": "Sad Import données personnelles, KVKK, sécurité des données, protection des données"
+      },
+      "description": {
+        "tr": "Sad İthalat kişisel veriler politikası - Kişisel verilerinizin nasıl korunduğu ve işlendiği hakkında detaylı bilgi.",
+        "en": "Sad Import personal data policy - Detailed information about how your personal data is protected and processed.",
+        "ar": "سياسة بيانات ساد للاستيراد الشخصية - معلومات مفصلة عن كيفية حماية ومعالجة بياناتك الشخصية.",
+        "fr": "Politique des données personnelles de Sad Import - Informations détaillées sur la protection et le traitement de vos données personnelles."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم",
+        "fr": "Droits des Utilisateurs"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanicahaklari",
+      "category": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat kullanıcı hakları, veri koruma, KVKK, kişisel veriler",
+        "en": "Sad Import user rights, data protection, KVKK, personal data",
+        "ar": "حقوق مستخدمي ساد للاستيراد، حماية البيانات، قانون حماية البيانات، البيانات الشخصية",
+        "fr": "Droits des utilisateurs Sad Import, protection des données, KVKK, données personnelles"
+      },
+      "description": {
+        "tr": "Sad İthalat kullanıcı hakları - Kişisel verilerinizin korunması ve kullanıcı haklarınız hakkında detaylı bilgi.",
+        "en": "Sad Import user rights - Detailed information about the protection of your personal data and your user rights.",
+        "ar": "حقوق مستخدمي ساد للاستيراد - معلومات مفصلة عن حماية بياناتك الشخصية وحقوقك كمستخدم.",
+        "fr": "Droits des utilisateurs Sad Import - Informations détaillées sur la protection de vos données personnelles et vos droits d'utilisateur."
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني",
+        "fr": "Mentions Légales"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasaluyari",
+      "category": "kurumsal",
+      "keyword": {
+        "tr": "Sad İthalat yasal uyarı, telif hakları, fikri mülkiyet, sorumluluk reddi",
+        "en": "Sad Import legal notice, copyright, intellectual property, disclaimer",
+        "ar": "إشعار قانوني ساد للاستيراد، حقوق النشر، الملكية الفكرية، إخلاء المسؤولية",
+        "fr": "Mentions légales Sad Import, droits d'auteur, propriété intellectuelle, clause de non-responsabilité"
+      },
+      "description": {
+        "tr": "Sad İthalat yasal uyarı - Web sitesi kullanım koşulları, telif hakları ve sorumluluk sınırları hakkında bilgi.",
+        "en": "Sad Import legal notice - Information about website terms of use, copyright, and liability limitations.",
+        "ar": "إشعار قانوني ساد للاستيراد - معلومات حول شروط استخدام الموقع الإلكتروني وحقوق النشر وحدود المسؤولية.",
+        "fr": "Mentions légales Sad Import - Informations sur les conditions d'utilisation du site web, les droits d'auteur et les limitations de responsabilité."
+      }
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "yjcx1l"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "bgimg": true
+  }
+}

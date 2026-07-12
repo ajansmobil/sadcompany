@@ -1,0 +1,572 @@
+{
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "EVA.R.34 ",
+        "en": "EVA.R.34",
+        "ar": "إيفا.ر.34",
+        "fr": "EVA.R.34"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sqtcy64qxj",
+      "externalUrl": "",
+      "path": "evar34-",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.34, EVA ürünleri, premium EVA, model 10142",
+        "en": "EVA.R.34, EVA products, premium EVA, model 10142",
+        "ar": "إيفا.ر.34، منتجات إيفا، إيفا متميز، نموذج 10142",
+        "fr": "EVA.R.34, produits EVA, EVA premium, modèle 10142"
+      },
+      "description": {
+        "tr": "EVA.R.34 model ürünümüz, yüksek kaliteli EVA malzemesi ile üretilmiş premium bir üründür. Model numarası: 10142",
+        "en": "Our EVA.R.34 model product is a premium product manufactured with high-quality EVA material. Model number: 10142",
+        "ar": "منتجنا إيفا.ر.34 هو منتج متميز مصنوع من مادة إيفا عالية الجودة. رقم الموديل: 10142",
+        "fr": "Notre produit modèle EVA.R.34 est un produit premium fabriqué avec un matériau EVA de haute qualité. Numéro de modèle : 10142"
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 0,
+      "icon": "home",
+      "desc": {
+        "type": "EVA",
+        "model": "10142",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "co5f9.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.R.0009 ",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "o61z506y6p",
+      "externalUrl": "",
+      "path": "pvcr0009-",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 1,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "3078",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "b4a8s.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.N.3536 ",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "a46wmau428",
+      "externalUrl": "",
+      "path": "pvcn3536-18059",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 2,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "18059",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "wgn4h.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.N.3515 ",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "br7xrerrf0",
+      "externalUrl": "",
+      "path": "pvcn3515-18055",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 3,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "18055",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "k3rty.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "wdavygcwvr",
+      "externalUrl": "",
+      "path": "evar35-10141",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 4,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10141",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "ypqkb.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "r73wc90b8x",
+      "externalUrl": "",
+      "path": "evar35-10140",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 5,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10140",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "odjj0.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "ngpo71zxg3",
+      "externalUrl": "",
+      "path": "evar35-10139",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 6,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10139",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "jaqtk.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "el3v9s85f3",
+      "externalUrl": "",
+      "path": "evar34-10144",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 7,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10144",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "rgna2.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "dvzml6xz3f",
+      "externalUrl": "",
+      "path": "evar34-10143",
+      "img": "index.webp",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 8,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10143",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "od93l.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "frgeenlr6m",
+      "externalUrl": "",
+      "path": "evar34-10142",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 9,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10142",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "s5xr8.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.25",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "wi1t2rqxud",
+      "externalUrl": "",
+      "path": "evar25-10118",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 10,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10118",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "f1xbj.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.25",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "obbool183h",
+      "externalUrl": "",
+      "path": "evar25-10099",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "description": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": "",
+        "fr": ""
+      },
+      "index": 11,
+      "icon": "home",
+      "desc": {
+        "type": "",
+        "model": "10099",
+        "gender": "",
+        "number": ""
+      },
+      "bgimg": "wf91w.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "uqqvpl"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

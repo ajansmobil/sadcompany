@@ -1,0 +1,34 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Sad İthalat - Premium ürünlerin ithalat ve ihracatında güvenilir ortağınız. Kalite ve mükemmelliğe olan bağlılığımızla, üstün Alabo ürünleri ile küresel pazarlar arasındaki boşluğu dolduruyoruz.",
+    "en": "Sad Import - Your reliable partner in the import and export of premium products. With our commitment to quality and excellence, we bridge the gap between global markets with superior Alabo products.",
+    "ar": "ساد للاستيراد - شريكك الموثوق في استيراد وتصدير المنتجات المتميزة. من خلال التزامنا بالجودة والتميز، نقوم بسد الفجوة بين الأسواق العالمية بمنتجات علابو المتفوقة.",
+    "fr": "Sad Import - Votre partenaire fiable dans l'importation et l'exportation de produits premium. Avec notre engagement envers la qualité et l'excellence, nous comblons le fossé entre les marchés mondiaux avec des produits Alabo supérieurs."
+  },
+  "keyword": {
+    "tr": "Sad İthalat, ithalat, ihracat, Alabo ürünleri, premium ürünler, güvenilir ticaret ortağı, EVA, PVC",
+    "en": "Sad Import, import, export, Alabo products, premium products, reliable trading partner, EVA, PVC",
+    "ar": "ساد للاستيراد، استيراد، تصدير، منتجات علابو، منتجات متميزة، شريك تجاري موثوق، إيفا، بولي كلوريد الفينيل",
+    "fr": "Sad Import, importation, exportation, produits Alabo, produits premium, partenaire commercial fiable, EVA, PVC"
+  },
+  "multi": false,
+  "category": "Kurumsal",
+  "name": "Sad İthalat",
+  "domain": "sad-ithalat.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": true,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  }
+}
