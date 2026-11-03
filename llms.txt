@@ -1,0 +1,39 @@
+# Sad İthalat
+
+> Sad İthalat - Premium ürünlerin ithalat ve ihracatında güvenilir ortağınız. Kalite ve mükemmelliğe olan bağlılığımızla, üstün Alabo ürünleri ile küresel pazarlar arasındaki boşluğu dolduruyoruz.
+
+Web: https://sad-ithalat.com/tr/ · Diller: tr, en, ar, fr (varsayilan: tr)
+
+## Sayfalar
+- [Sad İthalat](https://sad-ithalat.com/tr/): Sad İthalat - Premium ürünlerin ithalat ve ihracatında güvenilir ortağınız.
+- [Kurumsal](https://sad-ithalat.com/tr/kurumsal/): Sad İthalat kurumsal sayfası - Şirketimiz hakkında detaylı bilgi, misyon ve vizyonumuz, kalite politikamız ve daha fazlası.
+- [Ürünlerimiz](https://sad-ithalat.com/tr/urunlerimiz/): Sad İthalat ürün kataloğu - EVA ve PVC ürünlerimiz hakkında detaylı bilgi ve teknik özellikler.
+- [İletişim](https://sad-ithalat.com/tr/iletisim/): Sad İthalat iletişim bilgileri - Adres, telefon, e-posta ve iletişim formu ile bize ulaşın.
+- [Kurumsal](https://sad-ithalat.com/tr/kurumsal/): Sad İthalat kurumsal sayfası - Şirketimiz hakkında detaylı bilgi, misyon ve vizyonumuz, kalite politikamız ve daha fazlası.
+- [Hakkımızda](https://sad-ithalat.com/tr/hakkimizda/): Sad İthalat hakkında detaylı bilgi - Şirketimizin kurumsal kimliği, kalite standartları ve müşteri odaklı yaklaşımımız.
+- [Misyon](https://sad-ithalat.com/tr/misyon/): Sad İthalat'ın misyonu, premium ürünlerin ithalat ve ihracatında müşterilerine en kaliteli hizmeti sunmak ve işletmelerin başarısını teşvik etmektir.
+- [Vizyon](https://sad-ithalat.com/tr/vizyon/): Sad İthalat'ın vizyonu, premium ürünlerin ithalat ve ihracatında sektörün lider firması olmak ve küresel pazarlarda güvenilir bir ticaret ortağı olmaktır.
+- [Kalite Politikamız](https://sad-ithalat.com/tr/kalitepolitikamiz/): Sad İthalat'ın kalite politikası, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır.
+- [Gizlilik Politikası](https://sad-ithalat.com/tr/gizlilikpolitikasi/): Sad İthalat gizlilik politikası - Kişisel verilerinizin güvenliği ve gizliliği hakkında detaylı bilgi.
+- [Kişisel Veriler](https://sad-ithalat.com/tr/kisiselveriler/): Sad İthalat kişisel veriler politikası - Kişisel verilerinizin nasıl korunduğu ve işlendiği hakkında detaylı bilgi.
+- [Kullanıcı Hakları](https://sad-ithalat.com/tr/kullanicahaklari/): Sad İthalat kullanıcı hakları - Kişisel verilerinizin korunması ve kullanıcı haklarınız hakkında detaylı bilgi.
+- [Yasal Uyarı](https://sad-ithalat.com/tr/yasaluyari/): Sad İthalat yasal uyarı - Web sitesi kullanım koşulları, telif hakları ve sorumluluk sınırları hakkında bilgi.
+- [Çerez Politikası](https://sad-ithalat.com/tr/cerez-politikasi/): Bu politika, Sad İthalat tarafından işletilen sad-ithalat.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+
+## Urunler
+- [EVA.R.34](https://sad-ithalat.com/tr/evar34-/): EVA.R.34 model ürünümüz, yüksek kaliteli EVA malzemesi ile üretilmiş premium bir üründür.
+- [PVC.R.0009](https://sad-ithalat.com/tr/pvcr0009-/)
+- [PVC.N.3536](https://sad-ithalat.com/tr/pvcn3536-18059/)
+- [PVC.N.3515](https://sad-ithalat.com/tr/pvcn3515-18055/)
+- [EVA.R.35](https://sad-ithalat.com/tr/evar35-10141/)
+- [EVA.R.35](https://sad-ithalat.com/tr/evar35-10140/)
+- [EVA.R.35](https://sad-ithalat.com/tr/evar35-10139/)
+- [EVA.R.34](https://sad-ithalat.com/tr/evar34-10144/)
+- [EVA.R.34](https://sad-ithalat.com/tr/evar34-10143/)
+- [EVA.R.34](https://sad-ithalat.com/tr/evar34-10142/)
+- [EVA.R.25](https://sad-ithalat.com/tr/evar25-10118/)
+- [EVA.R.25](https://sad-ithalat.com/tr/evar25-10099/)
+
+## Diger
+- [sitemap.xml](https://sad-ithalat.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://sad-ithalat.com/llms-full.txt): sayfa govdeleri duz metin

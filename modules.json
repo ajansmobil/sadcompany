@@ -8,7 +8,29 @@
       "category": "menu",
       "desing": {
         "logo": "logo.png",
-        "bgcolor": "#1e3046"
+        "bgcolor": "#1e3046",
+        "color": "#ffffff",
+        "activebgcolor": "#ffffff",
+        "activecolor": "#000000",
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
+        "logomaxh": "100px",
+        "logoimg": "",
+        "langcolor": "currentColor",
+        "langbg": "transparent"
       },
       "id": "t7zg27"
     },
@@ -19,7 +41,14 @@
       "category": "footer",
       "desing": {
         "bgcolor": "#1e3046",
-        "color": "#fff"
+        "color": "#fff",
+        "stil": "",
+        "showlang": true,
+        "showsocial": true,
+        "social": [],
+        "langcolor": "",
+        "img": "",
+        "imgwidth": "250px"
       },
       "id": "hgtw4y",
       "index": 1
@@ -31,7 +60,8 @@
       "local": "header",
       "category": "slider",
       "desing": {
-        "delay": 3000
+        "delay": 3000,
+        "margin": "0px 0 0 0"
       },
       "data": [
         {
@@ -48,10 +78,29 @@
       "desing": {
         "height": "200",
         "opacity": "0.5",
-        "backgroundcolor": "#fff",
+        "backgroundcolor": "#ffffff",
         "color": "#1e3046",
         "img": "map.png",
-        "externalUrl": ""
+        "externalUrl": "",
+        "stil": "",
+        "address": "",
+        "phone": "",
+        "email": "",
+        "badgeText": {
+          "tr": "Konumumuz",
+          "en": "Our Location",
+          "ar": "موقعنا"
+        },
+        "infoTitle": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "اتصل بنا"
+        },
+        "directions": {
+          "tr": "Yol tarifi al",
+          "en": "Get directions",
+          "ar": "احصل على الاتجاهات"
+        }
       },
       "id": "n0fc7s",
       "index": 3
@@ -69,7 +118,10 @@
           "en": "",
           "ar": "",
           "fr": ""
-        }
+        },
+        "stil": "",
+        "margin": "30px 0px 30px 0px",
+        "linkcolor": "#1B3A6B"
       },
       "data": [
         {
@@ -99,7 +151,10 @@
         "opacity": "0.5",
         "font-size": "50",
         "backgroundcolor": "#000",
-        "category": "kurumsal"
+        "category": "kurumsal",
+        "menu-active": "#1e3046",
+        "textcolor": "#ffffff",
+        "activetext": "#ffffff"
       },
       "id": "yjcx1l"
     },
@@ -120,7 +175,11 @@
           "fr": ""
         },
         "margin-top": "20",
-        "margin-bottom": "20"
+        "margin-bottom": "20",
+        "Swiper1200": "5",
+        "Swiper1024": "4",
+        "Swiper768": "3",
+        "Swiper640": "2"
       },
       "id": "c25w6n"
     },
@@ -136,7 +195,9 @@
         "font-size": "50",
         "backgroundcolor": "#000",
         "menu-active": "#1e3046",
-        "category": "products"
+        "category": "products",
+        "textcolor": "#ffffff",
+        "activetext": "#ffffff"
       },
       "id": "uqqvpl"
     },
@@ -155,6 +216,29 @@
         "aspect-ratio": "1 / 1"
       },
       "id": "c0ajtk"
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "ypbyjg",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 9
     }
   ]
 }

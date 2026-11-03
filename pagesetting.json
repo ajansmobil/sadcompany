@@ -25,7 +25,9 @@
       "index": 1,
       "desing": {
         "header": [],
-        "body": ["uqqvpl"],
+        "body": [
+          "uqqvpl"
+        ],
         "footer": []
       },
       "modulestatus": {
@@ -42,11 +44,16 @@
       "index": 2,
       "desing": {
         "header": [],
-        "body": ["yjcx1l"],
+        "body": [
+          "yjcx1l"
+        ],
         "footer": []
       },
       "modulestatus": {
-        "bgimg": true
+        "bgimg": true,
+        "page": true,
+        "body": true,
+        "detail": true
       }
     }
   ]
